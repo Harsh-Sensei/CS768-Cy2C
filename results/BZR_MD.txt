@@ -1,0 +1,88 @@
+Cy2C_GCN_attr_1_concat_5_64_0.4(0.4)_0.0001
+=====================================
+===== Cy2C_GCN_attr_1_concat_5_64_0.4(0.4)_0.0001 ===== BZR_MD =====
+=====================================
+checkpoint
+result
+model_name
+load mainfold, subfold== 0 0
+Mainfold_index: 0, Subfold_index:0
+main & sub ===0,0,best acc & loss==,0.6452,0.0221,final acc & loss==0.5806,0.0236,best_epoch==105,final_epoch==206
+load mainfold, subfold== 1 0
+Mainfold_index: 1, Subfold_index:0
+main & sub ===1,0,best acc & loss==,0.5806,0.0204,final acc & loss==0.5806,0.0199,best_epoch==27,final_epoch==128
+load mainfold, subfold== 2 0
+Mainfold_index: 2, Subfold_index:0
+main & sub ===2,0,best acc & loss==,0.7097,0.0194,final acc & loss==0.7097,0.0188,best_epoch==11,final_epoch==112
+load mainfold, subfold== 3 0
+Mainfold_index: 3, Subfold_index:0
+main & sub ===3,0,best acc & loss==,0.5161,0.0216,final acc & loss==0.6129,0.0193,best_epoch==14,final_epoch==115
+load mainfold, subfold== 4 0
+Mainfold_index: 4, Subfold_index:0
+main & sub ===4,0,best acc & loss==,0.6129,0.0266,final acc & loss==0.5806,0.0249,best_epoch==107,final_epoch==208
+load mainfold, subfold== 5 0
+Mainfold_index: 5, Subfold_index:0
+main & sub ===5,0,best acc & loss==,0.6129,0.0213,final acc & loss==0.5484,0.0238,best_epoch==68,final_epoch==169
+load mainfold, subfold== 6 0
+Mainfold_index: 6, Subfold_index:0
+main & sub ===6,0,best acc & loss==,0.8000,0.0169,final acc & loss==0.6667,0.0194,best_epoch==98,final_epoch==199
+load mainfold, subfold== 7 0
+Mainfold_index: 7, Subfold_index:0
+main & sub ===7,0,best acc & loss==,0.5667,0.0221,final acc & loss==0.7333,0.0201,best_epoch==4,final_epoch==105
+load mainfold, subfold== 8 0
+Mainfold_index: 8, Subfold_index:0
+main & sub ===8,0,best acc & loss==,0.5667,0.0214,final acc & loss==0.8000,0.0195,best_epoch==6,final_epoch==107
+load mainfold, subfold== 9 0
+Mainfold_index: 9, Subfold_index:0
+main & sub ===9,0,best acc & loss==,0.7667,0.0202,final acc & loss==0.6667,0.0231,best_epoch==71,final_epoch==172
+
+
+
+
+
+
+
+
+
+Cy2C_GCN_attr_1_concat_5_64_0.4(0.4)_0.0001
+=====================================
+===== Cy2C_GCN_attr_1_concat_5_64_0.4(0.4)_0.0001 ===== BZR_MD =====
+=====================================
+checkpoint
+result
+model_name
+load mainfold, subfold== 0 0
+Mainfold_index: 0, Subfold_index:0
+main & sub ===0,0,best acc & loss==,0.6129,0.0207,final acc & loss==0.8065,0.0211,best_epoch==25,final_epoch==126
+load mainfold, subfold== 1 0
+Mainfold_index: 1, Subfold_index:0
+main & sub ===1,0,best acc & loss==,0.5484,0.0214,final acc & loss==0.6452,0.0202,best_epoch==4,final_epoch==105
+load mainfold, subfold== 2 0
+Mainfold_index: 2, Subfold_index:0
+main & sub ===2,0,best acc & loss==,0.6774,0.0203,final acc & loss==0.7419,0.0196,best_epoch==20,final_epoch==121
+load mainfold, subfold== 3 0
+Mainfold_index: 3, Subfold_index:0
+main & sub ===3,0,best acc & loss==,0.5806,0.0207,final acc & loss==0.6774,0.0192,best_epoch==64,final_epoch==165
+load mainfold, subfold== 4 0
+Mainfold_index: 4, Subfold_index:0
+main & sub ===4,0,best acc & loss==,0.5806,0.0270,final acc & loss==0.5806,0.0256,best_epoch==65,final_epoch==166
+load mainfold, subfold== 5 0
+Mainfold_index: 5, Subfold_index:0
+main & sub ===5,0,best acc & loss==,0.5806,0.0216,final acc & loss==0.5161,0.0239,best_epoch==123,final_epoch==224
+load mainfold, subfold== 6 0
+Mainfold_index: 6, Subfold_index:0
+main & sub ===6,0,best acc & loss==,0.8333,0.0166,final acc & loss==0.7333,0.0181,best_epoch==41,final_epoch==142
+load mainfold, subfold== 7 0
+Mainfold_index: 7, Subfold_index:0
+main & sub ===7,0,best acc & loss==,0.6333,0.0198,final acc & loss==0.7333,0.0202,best_epoch==107,final_epoch==208
+load mainfold, subfold== 8 0
+Mainfold_index: 8, Subfold_index:0
+main & sub ===8,0,best acc & loss==,0.6000,0.0208,final acc & loss==0.6333,0.0200,best_epoch==7,final_epoch==108
+load mainfold, subfold== 9 0
+Mainfold_index: 9, Subfold_index:0
+main & sub ===9,0,best acc & loss==,0.6333,0.0210,final acc & loss==0.6333,0.0220,best_epoch==142,final_epoch==243
+Cy2C_GCN_attr_3_concat_5_64_0.4(0.4)_0.0001
+
+
+
+

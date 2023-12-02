@@ -1,0 +1,80 @@
+Cy2C_GCN_attr_1_5_64_0.4(0.4)_0.0001
+=====================================
+===== Cy2C_GCN_attr_1_5_64_0.4(0.4)_0.0001 ===== COX2_MD =====
+=====================================
+checkpoint
+result
+load mainfold, subfold== 0 0
+Mainfold_index: 0, Subfold_index:0
+main & sub ===0,0,best acc & loss==,0.6774,0.0180,final acc & loss==0.7097,0.0212,best_epoch==174,final_epoch==275
+load mainfold, subfold== 1 0
+Mainfold_index: 1, Subfold_index:0
+main & sub ===1,0,best acc & loss==,0.7097,0.0215,final acc & loss==0.6129,0.0220,best_epoch==19,final_epoch==120
+load mainfold, subfold== 2 0
+Mainfold_index: 2, Subfold_index:0
+main & sub ===2,0,best acc & loss==,0.7742,0.0171,final acc & loss==0.7097,0.0159,best_epoch==156,final_epoch==257
+load mainfold, subfold== 3 0
+Mainfold_index: 3, Subfold_index:0
+main & sub ===3,0,best acc & loss==,0.6333,0.0206,final acc & loss==0.7000,0.0184,best_epoch==106,final_epoch==207
+load mainfold, subfold== 4 0
+Mainfold_index: 4, Subfold_index:0
+main & sub ===4,0,best acc & loss==,0.7333,0.0194,final acc & loss==0.7000,0.0181,best_epoch==21,final_epoch==122
+load mainfold, subfold== 5 0
+Mainfold_index: 5, Subfold_index:0
+main & sub ===5,0,best acc & loss==,0.5667,0.0226,final acc & loss==0.7000,0.0249,best_epoch==71,final_epoch==172
+load mainfold, subfold== 6 0
+Mainfold_index: 6, Subfold_index:0
+main & sub ===6,0,best acc & loss==,0.5667,0.0269,final acc & loss==0.6333,0.0274,best_epoch==27,final_epoch==128
+load mainfold, subfold== 7 0
+Mainfold_index: 7, Subfold_index:0
+main & sub ===7,0,best acc & loss==,0.9333,0.0143,final acc & loss==0.9000,0.0096,best_epoch==143,final_epoch==244
+load mainfold, subfold== 8 0
+Mainfold_index: 8, Subfold_index:0
+main & sub ===8,0,best acc & loss==,0.5667,0.0222,final acc & loss==0.7000,0.0194,best_epoch==22,final_epoch==123
+load mainfold, subfold== 9 0
+Mainfold_index: 9, Subfold_index:0
+main & sub ===9,0,best acc & loss==,0.8667,0.0138,final acc & loss==0.8333,0.0152,best_epoch==176,final_epoch==277
+Cy2C_GCN_attr_3_5_64_0.4(0.4)_0.0001
+
+
+
+
+
+
+
+
+=====================================
+===== Cy2C_GCN_attr_3_5_64_0.4(0.4)_0.0001 ===== COX2_MD =====
+=====================================
+checkpoint
+result
+load mainfold, subfold== 0 0
+Mainfold_index: 0, Subfold_index:0
+main & sub ===0,0,best acc & loss==,0.7419,0.0161,final acc & loss==0.7097,0.0251,best_epoch==83,final_epoch==184
+load mainfold, subfold== 1 0
+Mainfold_index: 1, Subfold_index:0
+main & sub ===1,0,best acc & loss==,0.7097,0.0209,final acc & loss==0.6774,0.0212,best_epoch==14,final_epoch==115
+load mainfold, subfold== 2 0
+Mainfold_index: 2, Subfold_index:0
+main & sub ===2,0,best acc & loss==,0.6774,0.0215,final acc & loss==0.8387,0.0153,best_epoch==105,final_epoch==206
+load mainfold, subfold== 3 0
+Mainfold_index: 3, Subfold_index:0
+main & sub ===3,0,best acc & loss==,0.5667,0.0203,final acc & loss==0.7000,0.0162,best_epoch==116,final_epoch==217
+load mainfold, subfold== 4 0
+Mainfold_index: 4, Subfold_index:0
+main & sub ===4,0,best acc & loss==,0.7000,0.0215,final acc & loss==0.7333,0.0176,best_epoch==121,final_epoch==222
+load mainfold, subfold== 5 0
+Mainfold_index: 5, Subfold_index:0
+main & sub ===5,0,best acc & loss==,0.6000,0.0223,final acc & loss==0.7333,0.0269,best_epoch==64,final_epoch==165
+load mainfold, subfold== 6 0
+Mainfold_index: 6, Subfold_index:0
+main & sub ===6,0,best acc & loss==,0.7000,0.0233,final acc & loss==0.6667,0.0246,best_epoch==98,final_epoch==199
+load mainfold, subfold== 7 0
+Mainfold_index: 7, Subfold_index:0
+main & sub ===7,0,best acc & loss==,0.9333,0.0105,final acc & loss==0.9333,0.0097,best_epoch==156,final_epoch==257
+load mainfold, subfold== 8 0
+Mainfold_index: 8, Subfold_index:0
+main & sub ===8,0,best acc & loss==,0.8000,0.0179,final acc & loss==0.7333,0.0183,best_epoch==129,final_epoch==230
+load mainfold, subfold== 9 0
+Mainfold_index: 9, Subfold_index:0
+main & sub ===9,0,best acc & loss==,0.8000,0.0155,final acc & loss==0.8333,0.0157,best_epoch==148,final_epoch==249
